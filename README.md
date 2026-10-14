@@ -28,7 +28,8 @@ South African and socio-contextual datasets.
 **Repository Structure**
                                                                                                                                         
                                                                                                                                         
-                                                                                                                                        [`01_data_cleaning_and_preliminary_analysis/`] | **SAFI dataset:** Cleaning and combining household survey data from Mozambique and Tanzania, 
+                                                                                                                                      
+[`01_data_cleaning_and_preliminary_analysis/`] | **SAFI dataset:** Cleaning and combining household survey data from Mozambique and Tanzania, 
                                                      applying tidy data principles, calculating descriptive statistics, and visualising household 
                                                      and dwelling characteristics.
 
