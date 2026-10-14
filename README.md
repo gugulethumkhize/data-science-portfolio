@@ -40,7 +40,7 @@ South African and socio-contextual datasets.
 
                                                      
 [`03_data_visualisation/`]                     | **Exploratory visualisation with ggplot2:** Creating scatter plots, bar charts, regression lines, 
-                                                     faceted visualisations, and animated time-series graphics using datasets such as `diamonds` and `economics`.                    
+                                                     faceted visualisations, and animated time-series graphics using datasets such as `diamonds`, `economics` and `gapminder`.                    
                                                      
 [`04_nlp/`]                                    | **Political manifestos & sentiment analysis:** Comparing the 2024 EFF and DA manifestos through text cleaning, 
                                                      word frequencies, word clouds, correlation, and regression visualisation; analysing sentiment in simulated 
