@@ -34,27 +34,27 @@ South African, global and socio-contextual datasets.
                                                      and dwelling characteristics.
 
                                                      
-[`02_data_wrangling_and_data_management_/`     | **NYC Flights & Social Fitness:** Filtering and transforming flight records, investigating 
+[`02_data_wrangling_and_data_management_/`](https://github.com/gugulethumkhize/data_wrangling_and_data_management)     | **NYC Flights & Social Fitness:** Filtering and transforming flight records, investigating 
                                                      delays and cancellations, examining missing values, and exploring the relationship between 
                                                      social connection frequency and perceived energy.
 
                                                      
-[`03_data_visualisation/`]                     | **Exploratory visualisation with ggplot2:** Creating scatter plots, bar charts, regression lines, 
+[`03_data_visualisation/`](https://github.com/gugulethumkhize/data_visualisation_and_exploratory_data_analysis_in_R)                     | **Exploratory visualisation with ggplot2:** Creating scatter plots, bar charts, regression lines, 
                                                      faceted visualisations, and animated time-series graphics using datasets such as `diamonds`, `economics` and `gapminder`.                    
                                                      
-[`04_nlp/`]                                    | **Political manifestos & sentiment analysis:** Comparing the 2024 EFF and DA manifestos through text cleaning, 
+[`04_nlp/`](https://github.com/gugulethumkhize/nlp_south_african_political_parties)                                    | **Political manifestos & sentiment analysis:** Comparing the 2024 EFF and DA manifestos through text cleaning, 
                                                      word frequencies, word clouds, correlation, and regression visualisation; analysing sentiment in simulated 
                                                      data science course reviews using the Bing lexicon.
 
                                                      
-[`05_gis/`]                                    | **Geospatial analysis:** Mapping African human development indicators by subregion and extracting and 
+[`05_gis/`](https://github.com/gugulethumkhize/geocomputation_gis)                                    | **Geospatial analysis:** Mapping African human development indicators by subregion and extracting and 
                                                      preparing online tariff data for exploratory analysis.
 
                                                      
-[`06_sna/`]                                    | **Social network analysis:** Constructing and visualising a network of government officials and business people, 
+[`06_sna/`](https://github.com/gugulethumkhize/social_network_analysis)                                    | **Social network analysis:** Constructing and visualising a network of government officials and business people, 
                                                      then using degree and betweenness centrality to examine network connections and structural importance.                         
 
-[`07_ict_south_africa_study/`]                 | **South African ICT study:** Cleaning and integrating secondary data to explore ICT trade, investment, research 
+[`07_ict_south_africa_study/`](https://github.com/gugulethumkhize/ict_south_africa_study)                 | **South African ICT study:** Cleaning and integrating secondary data to explore ICT trade, investment, research 
                                                      and development, patent activity, and the geographical distribution of investment using descriptive analysis 
                                                      and visualisation.
                                                      
