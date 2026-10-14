@@ -5,8 +5,8 @@ Human-centred Data Scientist with a background in Philosophy, Digital Strategy,
 Politic Science and Data Analysis.
 
 This repository contains selected data science, data analysis research projects using R, 
-Excel, statistical analysis, NLP, GIS, and network analysis, with a focus on 
-South African and socio-contextual datasets.
+Excel, statistical analysis, NLP, GIS, and social network analysis, with a focus on 
+South African, global and socio-contextual datasets.
 
 ---
 
